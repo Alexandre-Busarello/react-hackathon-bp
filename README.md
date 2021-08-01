@@ -12,6 +12,6 @@ Configurado com o `create-react-app` para o template de TS.
 - Adicionei um exemplo de página com parametros;
 - Adicionei um exemplo de context com estado (loading);
 - Adicionei a biblioteca axios para requisições http;
-- Tentei adicionar uma estrutura de pastas pra servicer de referência;
+- Tentei adicionar uma estrutura de pastas pra servir de referência;
 
 
