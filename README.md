@@ -1,6 +1,7 @@
 # Para rodar o projeto localmente
 
 Instalar as dependencias com o `yarn`;
+
 Usar o comando `yarn start`.
 
 ## Detalhes
